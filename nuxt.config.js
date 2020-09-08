@@ -27,8 +27,10 @@ export default {
     link: [
       {
         rel: "stylesheet",
-        href: "https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css"
+        // href: "https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css"
+        href: "https://unpkg.com/sakura.css/css/sakura.css"
       }
+
     ]
   },
   /*
@@ -54,7 +56,7 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    // '@nuxtjs/tailwindcss'
   ],
   /*
   ** Nuxt.js modules
