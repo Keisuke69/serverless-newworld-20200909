@@ -1,0 +1,4 @@
+https://public-api.wordpress.com/rest/v1.1/sites/keisuke69.wordpress.com/posts/
+Content-Type: application/json
+Accept: application/json
+method: GET
