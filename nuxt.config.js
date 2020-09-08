@@ -23,6 +23,12 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    link: [
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css"
+      }
     ]
   },
   /*
