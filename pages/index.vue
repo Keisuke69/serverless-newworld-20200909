@@ -16,7 +16,6 @@ export default {
     const url =
       "https://public-api.wordpress.com/rest/v1.1/sites/keisuke69.wordpress.com/posts/";
     const response = await $axios.$get(url);
-    console.log(response);
     return {
       posts: response,
     };
