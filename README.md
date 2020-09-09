@@ -1,4 +1,9 @@
 # serverless-newworld-20200909
+2020年9月9日開催のイベントでの説明用に利用するサンプルアプリです。
+
+サーバーレスアンチパターン今昔物語 第四夜 - 夏の残り香 - <br>
+https://serverless-newworld.connpass.com/event/187317/
+
 
 ## Build Setup
 
