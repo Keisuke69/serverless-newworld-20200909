@@ -15,7 +15,11 @@
     "@nuxt/content": "^1.5.0",
     "@nuxtjs/axios": "^5.12.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
-    "nuxt": "^2.14.0"
+    "aws-serverless-express": "^3.3.8",
+    "express-asyncify": "^1.0.1",
+    "morgan": "^1.10.0",
+    "nuxt": "^2.14.0",
+    "serverless-http": "^2.5.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
@@ -28,6 +32,7 @@
     "eslint": "^7.5.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "jest": "^26.1.0",
+    "serverless-offline": "^6.7.0",
     "vue-jest": "^3.0.4"
   }
 }

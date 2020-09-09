@@ -1,5 +1,5 @@
 
-export default {
+module.exports =  {
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
@@ -27,7 +27,6 @@ export default {
     link: [
       {
         rel: "stylesheet",
-        // href: "https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css"
         href: "https://unpkg.com/sakura.css/css/sakura.css"
       }
 
@@ -85,7 +84,12 @@ export default {
   build: {
   },
 
-  generate: {
-    fallback: true
+  // router: {
+  //   base: '/dev/',
+  // },
+
+  render: {
+    compressor: false
   }
+
 }
