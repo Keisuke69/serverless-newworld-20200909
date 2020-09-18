@@ -2,10 +2,6 @@ service: nuxt-ssr
 plugins: 
   - serverless-offline
 
-service: nuxt-ssr
-plugins: 
-  - serverless-offline
-
 frameworkVersion: '2'
 
 provider:
