@@ -7,4 +7,4 @@ https://serverless-newworld.connpass.com/event/187317/ <br>
 
 Nuxt.jsベースのアプリケーションをAmazon API GatewayとAWS Lambdaを使ってServer Side Renderingをしています。<br>
 AWSへのデプロイはServerless Frameworkを利用しています。<br>
-時間のない人はlambda.jsとserverless.xmlを見てもらえるだけで十分です。
+時間のない人はlambda.jsとserverless.ymlを見てもらえるだけで十分です。
