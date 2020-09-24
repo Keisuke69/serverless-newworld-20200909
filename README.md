@@ -21,10 +21,14 @@ Dockerを使わない場合はNode.jsをインストールしておく必要が�
 また、今回はデプロイにServerless Frameworkを利用していますので、`npm install -g serverless`でこちらもインストールしておいてください。
 
 ## ビルド
+```
 npm run build
+```
 
 ## デプロイ
+```
 sls deploy
+```
 
 
 
